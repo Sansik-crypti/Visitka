@@ -1,2 +1,2 @@
 # Visitka
-https://sansik-crypti.github.io/Visual-programming/
+https://sansik-crypti.github.io/Visitka/
